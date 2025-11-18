@@ -7,7 +7,7 @@
 - respond to a user's tap to display the answer to the question
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/Marcdave2/FlashCard-App/blob/main/AndroidStudioProjects/dADEAPP/lab1.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
